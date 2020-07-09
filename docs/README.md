@@ -8,13 +8,13 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- DOCS-IGNORE:end -->
 
-Make your website cookies comply with GDPR and CCPA.
+Cookie Script first party integration app. The [solution](https://cookie-script.com/) makes your website cookies comply with GDPR and CCPA.
 
 ![image](https://user-images.githubusercontent.com/284515/86488877-d35b0f80-bd38-11ea-95f9-7610985e19d5.png)
 
 ## Configuration
 
-It is possible to install in your store either by using App Store or the VTEX IO Toolbelt.
+It is possible to install the Cookie Script in your store either by using App Store or the VTEX IO Toolbelt.
 
 ### Using VTEX App Store
 
@@ -25,15 +25,15 @@ It is possible to install in your store either by using App Store or the VTEX IO
 
 ### Using VTEX IO Toolbelt
 
-1. [Install](https://vtex.io/docs/recipes/development/installing-an-app/) the `vtex.cookie-script@0.x` app. You can confirm that the app has now been installed by running `vtex ls` again. 
-2. Access the **Apps** section in your account's admin page and look for the NAME OF THE APP box. Once you find it, click on the box.
+1. In your terminal, [install](https://vtex.io/docs/recipes/development/installing-an-app/) the `vtex.cookie-script@0.x` app. You can confirm that the app has now been installed by running `vtex ls` again. 
+2. Access the **Apps** section in your account's admin page and look for the Cookie Script box. Once you find it, click on it.
 3. Fill in the **Cookie Script ID** field.
 4. Click on **Save**.
 
 <!-- DOCS-IGNORE:start -->
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
