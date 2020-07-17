@@ -1,0 +1,23 @@
+## Sobre
+
+Esta aplicación permite una fácil integración con los servicios ofrecidos por Cookie Script.
+Cookie Script lo ayuda a cumplir con GDPR y CCPA. Cree su propia ventana emergente de información de cookies sin la necesidad de habilidades de programación. Puedes usar el servicio gratis.
+
+## Funcionalidades
+
+- Cookie Script comprueba, categoriza y agrega automáticamente la descripción de todas las cookies que se encuentran en su sitio web;
+- Analizamos su sitio web y generamos informes detallados sobre todos los tipos de cookies utilizados;
+- Registramos y almacenamos todos los consentimientos de los visitantes para que pueda descargarlos según lo requiera el RGPD;
+- Siga las reglas de GPDR y permita que sus usuarios suspendan el consentimiento de las cookies en cualquier momento en cualquier página;
+- Cookie Script puede eliminar todas las cookies hasta que el visitante acepte la Política de cookies. Esto es opcional, por lo que puede cumplir con GDPR y CCPA. También puede bloquear las cookies de terceros;
+- Seleccione qué cookies son estrictamente necesarias (funcionales) para que su sitio web funcione correctamente.
+
+## Cómo configurar
+
+1. Instale la aplicación VTEX App Store;
+2. Después de crear una cuenta de Cookie Script y configurar la ventana emergente, complete la ID correspondiente en la configuración de la aplicación y elija la región;
+3. Guarde sus cambios.
+
+## Comentarios
+
+- Algunas funciones solo están disponibles para suscripciones específicas.
