@@ -20,4 +20,4 @@ Cookie Script ajuda você a cumprir o GDPR e o CCPA. Crie seu próprio pop-up de
 
 ## Comentários
 
-- Alguns recursos estão disponíveis apenas para assinaturas específicss.
+- Alguns recursos estão disponíveis apenas para assinaturas específicas.
