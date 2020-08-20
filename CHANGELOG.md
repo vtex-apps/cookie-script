@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Nova estrutura de metadados para App Store
 
 ### Added
-- Crowdin.yml para lacalização
+- Crowdin.yml para localização
 
 ## [0.1.2] - 2020-07-21
 ### Fixed
