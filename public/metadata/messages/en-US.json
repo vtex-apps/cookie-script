@@ -1,7 +1,7 @@
 {
   "name": "Cookie Script",
   "headline": "Make your website cookies comply with GDPR and CCPA.",
-  "overview": "This app allows easy integration with the services offered by Cookie Script.\nCookie Script helps you to comply GDPR and CCPA. Make your own cookie information popup, no programming skills required. You can even use it for free.",
+  "overview": "This app allows easy integration with the services offered by Cookie Script.\r\nCookie Script helps you to comply GDPR and CCPA. Make your own cookie information popup, no programming skills required. You can even use it for free.",
   "features": [
     "Cookie-Script automatically scans, categorizes and adds description to all cookies found on your website",
     "We scan your website and generate detailed report about all types of cookies used",
