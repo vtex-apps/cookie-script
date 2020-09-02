@@ -1,7 +1,7 @@
 {
   "name": "Cookie Script",
   "headline": "Haga que las cookies de su sitio web cumplan con GDPR y CCPA.",
-  "overview": "Esta aplicación permite una fácil integración con los servicios ofrecidos por Cookie Script.\nCookie Script lo ayuda a cumplir con GDPR y CCPA. Cree su propia ventana emergente de información de cookies sin la necesidad de habilidades de programación. Puedes usar el servicio gratis.",
+  "overview": "Esta aplicación permite una fácil integración con los servicios ofrecidos por Cookie Script.\r\nCookie Script lo ayuda a cumplir con GDPR y CCPA. Cree su propia ventana emergente de información de cookies sin la necesidad de habilidades de programación. Puedes usar el servicio gratis.",
   "features": [
     "Cookie Script comprueba, categoriza y agrega automáticamente la descripción de todas las cookies que se encuentran en su sitio web",
     "Analizamos su sitio web y generamos informes detallados sobre todos los tipos de cookies utilizados",
