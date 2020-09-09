@@ -1,0 +1,18 @@
+{
+  "name": "Cookie Script",
+  "headline": "Make your website cookies comply with GDPR and CCPA.",
+  "overview": "This app allows easy integration with the services offered by Cookie Script.\r\nCookie Script helps you to comply GDPR and CCPA. Make your own cookie information popup, no programming skills required. You can even use it for free.",
+  "features": [
+    "Cookie-Script automatically scans, categorizes and adds description to all cookies found on your website",
+    "We scan your website and generate detailed report about all types of cookies used",
+    "We record and store all visitor consents so you could download them as required by GDPR",
+    "Follow GPDR rules and allow your users to withdraw cookie consent at any time on any page",
+    "Cookie-Script can delete all cookies until visitor agrees to Cookie Policy. This is optional, so you can comply with both GDPR and CCPA. You can also block third-party cookies",
+    "Select which cookies are strictly necessary (functional) for your website to work properly"
+  ],
+  "additionalInformation": "Some features are only available to specific subscriptions.",
+  "websiteURL": "https://vtex.com/",
+  "support": {
+    "url": "https://support.vtex.com/hc/requests"
+  }
+}

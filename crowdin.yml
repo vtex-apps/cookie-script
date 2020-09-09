@@ -1,0 +1,10 @@
+---
+files:
+  -
+    source: "cookie-script/public/metadata/messages/pt-BR.json"
+    translation: "cookie-script/public/metadata/messages/%locale%.json"
+    type: "json"
+  -
+    source: "cookie-script/public/metadata/licenses/pt-BR.md"
+    translation: "cookie-script/public/metadata/licenses/%locale%.md"
+    type: "md"
