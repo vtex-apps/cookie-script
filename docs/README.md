@@ -32,7 +32,7 @@ It is possible to install the Cookie Script in your store either by using App St
 
 ## Cookie Script Configuration
 
-On the *Cookie scanner* tab, run a scan. After the scan is complete, go to *Cookies* tab and make sure the following cookies are categorized as "Stricly Necessary": ASPXAUTH, checkout.vtex.com, CookieConsent, device, vtex_segment, vtex_session, VtexFingerPrint, VtexRCMacIdv7, VtexRCRequestCounter, VtexRCSessionIdv7, VtexWorkspace;
+On the *Cookie scanner* tab, run a scan. After the scan is complete, go to *Cookies* tab and make sure the following cookies are categorized as "Stricly Necessary": ASPXAUTH, checkout.vtex.com, CookieConsent, device, vtex_segment, vtex_session, VtexFingerPrint, VtexRCMacIdv7, VtexRCRequestCounter, VtexRCSessionIdv7 and VtexWorkspace.
 
 <!-- DOCS-IGNORE:start -->
 ## Contributors ✨
