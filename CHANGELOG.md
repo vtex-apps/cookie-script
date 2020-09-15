@@ -41,3 +41,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Fixed
 
 - Fix subdomain for all visitors setting
+- Update the README.md file with missing configuration (docs)
