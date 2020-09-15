@@ -36,3 +36,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
 
 - Initial release.
+
+## [0.1.2] - 2020-09-15
+### Fixed
+
+- Fix subdomain for all visitors setting
