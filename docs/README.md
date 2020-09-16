@@ -12,7 +12,7 @@ Cookie Script first party integration app. The [solution](https://cookie-script.
 
 ![image](https://user-images.githubusercontent.com/284515/86488877-d35b0f80-bd38-11ea-95f9-7610985e19d5.png)
 
-## Vtex Configuration
+## VTEX Configuration
 
 It is possible to install the Cookie Script in your store either by using App Store or the VTEX IO Toolbelt.
 
