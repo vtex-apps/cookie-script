@@ -12,7 +12,7 @@ Cookie Script first party integration app. The [solution](https://cookie-script.
 
 ![image](https://user-images.githubusercontent.com/284515/86488877-d35b0f80-bd38-11ea-95f9-7610985e19d5.png)
 
-## Configuration
+## VTEX Configuration
 
 It is possible to install the Cookie Script in your store either by using App Store or the VTEX IO Toolbelt.
 
@@ -29,6 +29,10 @@ It is possible to install the Cookie Script in your store either by using App St
 2. Access the **Apps** section in your account's admin page and look for the Cookie Script box. Once you find it, click on it.
 3. Fill in the **Cookie Script ID** field.
 4. Click on **Save**.
+
+## Cookie Script Configuration
+
+On the *Cookie scanner* tab, run a scan. After the scan is complete, go to *Cookies* tab and make sure the following cookies are categorized as "Stricly Necessary": ASPXAUTH, checkout.vtex.com, CookieConsent, device, vtex_segment, vtex_session, VtexFingerPrint, VtexRCMacIdv7, VtexRCRequestCounter, VtexRCSessionIdv7 and VtexWorkspace.
 
 <!-- DOCS-IGNORE:start -->
 ## Contributors ✨

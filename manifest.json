@@ -33,7 +33,7 @@
         "type": "string",
         "default": "eu",
         "enum": [
-          "chs03",
+          "cdn",
           "eu",
           "ca",
           "ca-eu"
