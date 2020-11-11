@@ -1,23 +1,12 @@
 ## About
 
-This app allows easy integration with the services offered by Cookie Script.
-Cookie Script helps you to comply GDPR and CCPA. Make your own cookie information popup, no programming skills required. You can even use it for free.
+Comply with GDPR and CCPA through simple integration with Cookie Script services. Create your own pop-up of cookie information without the need for programming skills. The service can be used free of charge.
 
-## Functionalities
+## Features
 
-- Cookie-Script automatically scans, categorizes and adds description to all cookies found on your website;
-- We scan your website and generate detailed report about all types of cookies used;
-- We record and store all visitor consents so you could download them as required by GDPR;
-- Follow GPDR rules and allow your users to withdraw cookie consent at any time on any page;
-- Cookie-Script can delete all cookies until visitor agrees to Cookie Policy. This is optional, so you can comply with both GDPR and CCPA. You can also block third-party cookies;
-- Select which cookies are strictly necessary (functional) for your website to work properly.
-
-## How to set up
-
-1. Install the app from VTEX App Store;
-2. After creating a Cookie Script account and configuring the pop-up, fill in the corresponding ID in the app settings and choose the region;
-3. Save your changes.
-
-## Comments
-
-- Some features are only available to specific subscriptions.
+- Check, categorize and add description to all cookies found on your site automatically;
+- Get access to detailed reports and analysis on all types of cookies used;
+- Have all visitors' consents stored so that you can download them, according to GDPR;
+- Allow your users to suspend the consent of cookies at any time on your page;
+- Allow the Cookie Script to delete all cookies until the visitor agrees with the Cookie Policy and blocks third-party cookies;
+- Select which cookies are strictly necessary (functional) for your website to function properly.
