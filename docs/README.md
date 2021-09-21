@@ -57,7 +57,7 @@ Once you have installed the app, you need to create an account in [Cookie Script
 ![app-dashboard](https://user-images.githubusercontent.com/67270558/133613562-3248fadc-e6a0-4859-8b05-5167085e4242.gif)
 
 3. Once you have added your website, go to the **Cookie scanner** tab and run a scan. 
-2. After the scan is complete, go to **Cookies** tab and make sure the following cookies are categorized as "Stricly Necessary": `ASPXAUTH`, `checkout.vtex.com`, `CookieConsent`, `device`, `vtex_segment`, `vtex_session`, `VtexFingerPrint`, `VtexRCMacIdv7`, `VtexRCRequestCounter`, `VtexRCSessionIdv7` and `VtexWorkspace`.
+2. After the scan is complete, go to **Cookies** tab and make sure the following cookies are categorized as **Stricly Necessary**: `ASPXAUTH`, `checkout.vtex.com`, `CookieConsent`, `device`, `vtex_segment`, `vtex_session`, `VtexFingerPrint`, `VtexRCMacIdv7`, `VtexRCRequestCounter`, `VtexRCSessionIdv7` and `VtexWorkspace`.
 
 
 <!-- DOCS-IGNORE:start -->
