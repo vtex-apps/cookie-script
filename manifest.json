@@ -1,7 +1,7 @@
 {
   "name": "cookie-script",
   "vendor": "vtex",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "title": "Cookie Script",
   "description": "Make your website cookies comply with GDPR and CCPA.",
   "billingOptions": {
