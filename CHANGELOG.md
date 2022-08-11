@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Changed
+- Added configuration by bindings
+
 ## [0.1.8] - 2021-09-23
 ### Changed
 - Changed the Installing Cookie Script app section structure
