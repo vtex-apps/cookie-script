@@ -23,6 +23,7 @@
   "settingsSchema": {
     "title": "Cookie Script",
     "type": "object",
+    "bindingBounded": true,
     "properties": {
       "cookieScriptId": {
         "title": "ID",
